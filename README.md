@@ -11,6 +11,8 @@ FakeDeafen works by intercepting Discord’s voice state messages.
 - **Others will see you as deafened**, but you can still speak and hear normally.  
 - Controlled automatically—no extra commands are required.  
 
+For full instructions on installing Vencord, see: [Vencord Docs](https://docs.vencord.dev/installing/)
+
 ---
 
 ## Instructions
