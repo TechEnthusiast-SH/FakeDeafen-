@@ -6,6 +6,15 @@ declare global {
     }
 }
 
+/**
+ * @name Fake Deafen
+ * @version 1.0.0
+ * @description Automatically fakes deafen in Discord voice channels (manual deafen first).
+ * @author Linkgamz
+ * @authorId 1376386049344929834
+ * @source https://docs.vencord.dev/installing/
+ */
+
 export default definePlugin({
     name: "Fake Deafen",
     description: "Automatically fakes deafen in Discord voice channels.",
